@@ -1,5 +1,4 @@
-# sketch-hair-palette
-## A Sketch Hair Color Palette
+## Sketch Palette: Hair Colors
 
 Just a little helper inspired by [this cool page](http://www.collectedwebs.com/art/colors/hair/). Feel free to use as you see fit.
 Catch me on [Twitter](http://twitter.com/saschamt) or [Dribbble](http://dribbble.com/saschamt)
